@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, I'm Baptiste 👋
+I am 26 and started to learn DEV since 2022 !
+_____________________________________________________________
+
+- 🔭 I’m currently working on my personnal website about dance.
+- 🌱 I already use basic skills on HTML5, CSS3, JavaScript, PHP & SQL but I want to learn more on them and more languages.
+
+_____________________________________________________________
+- 📫 How to reach me: valgor29@gmail.com
 
 <!--
 **BValgor/BValgor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
